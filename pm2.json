@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "name": "D:workspaceD:workspacenst",
+    "name": "learnthinkjs",
     "script": "www/production.js",
     "cwd": "D:\workspace\nst",
     "exec_mode": "cluster",
