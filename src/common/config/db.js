@@ -7,7 +7,7 @@ export default {
   type: 'mysql',
   adapter: {
     mysql: {
-      host: '120.26.213.226',
+      host: '127.0.0.1',
       port: '3306',
       database: 'blog',
       user: 'root',
